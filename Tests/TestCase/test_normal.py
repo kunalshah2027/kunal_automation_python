@@ -2,8 +2,8 @@ import unittest
 
 import pytest
 
-class Testtall(unittest.TestCase):
 
+class Test_all(unittest.TestCase):
 
     def test_first(self):
         x = 4
